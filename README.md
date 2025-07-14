@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Your existing hero image -->
-  <img src="[assets/your-hero-image.png](https://github.com/user-attachments/assets/642ff2aa-4ca0-41ac-b287-a75fe4e2d53c)" alt="Hero" width="70%" height="60%"/>
+  <img src="https://github.com/user-attachments/assets/642ff2aa-4ca0-41ac-b287-a75fe4e2d53c" alt="Image" width="70%" height="60%"/>
 
   <!-- Your new intro text -->
   <p style="max-width: 800px; color: #444; font-size: 1.1em; margin: 16px auto;">
