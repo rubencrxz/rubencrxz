@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1024" height="1024" alt="ChatGPT Image 14 jul 2025, 18_46_32" src="https://github.com/user-attachments/assets/642ff2aa-4ca0-41ac-b287-a75fe4e2d53c" />
+
 
 <!--
 **rubencrxz/rubencrxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
