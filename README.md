@@ -12,7 +12,13 @@
 
 ---
 
-## 📊 Audit Contest (Public Review Stats)
+## 🏆 Audit Contest (Public Review Stats)
+
+| Platform   | Audits Performed | Bugs Reported | Status  |
+| ---------- | ---------------- | ------------- | ------- |
+| Cantina    |  0               | 2             | Active  |
+| CodeArena  |  2               | 6             | Active  |
+| Sherlock   |  0               | 0             | Active  |
 
 
 ## ✈️ First Flight Contest
@@ -20,6 +26,17 @@
 
 ## 💻 CodeCrypto Projects
 
+<p align="center">
+  <!-- Badge link -->
+  [![Crowdsale Repo](https://img.shields.io/badge/CodeCrypto–Crowdsale-blue?logo=github)](https://github.com/rubencrxz/projects/crowdsale)
+  &nbsp;
+  <!-- Repo card -->
+  <a href="https://github.com/rubencrxz/web25-besu-2025"">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=rubencrxz&repo=web25-besu-2025&theme=dark"
+      alt="web25-besu-2025 Repo" />
+  </a>
+</p>
 
 <!--
 **rubencrxz/rubencrxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
