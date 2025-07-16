@@ -27,10 +27,6 @@
 ## 💻 CodeCrypto Projects
 
 <p align="center">
-  <!-- Badge link -->
-  [![Crowdsale Repo](https://img.shields.io/badge/CodeCrypto–Crowdsale-blue?logo=github)](https://github.com/rubencrxz/projects/crowdsale)
-  &nbsp;
-  <!-- Repo card -->
   <a href="https://github.com/rubencrxz/web25-besu-2025"">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=rubencrxz&repo=web25-besu-2025&theme=dark"
