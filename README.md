@@ -43,12 +43,14 @@
 
 ## 💻 CodeCrypto Projects
 
-<div align="left">
-  <a href="https://github.com/rubencrxz/web25-besu-2025" target="_blank" style="vertical-align: middle;">
-    <img src="assets/CodeCrypto_logo1_420x420.png" alt="CodeCrypto Logo" width="120" style="vertical-align: middle;"/>
+<div align="left" style="display: flex; align-items: center;">
+  <a href="https://github.com/rubencrxz/web25-besu-2025" target="_blank">
+    <img src="assets/CodeCrypto_logo1_420x420.png"
+         alt="CodeCrypto Logo"
+         width="120"/>
   </a>
   <a href="https://github.com/rubencrxz/web25-besu-2025" target="_blank"
-     style="vertical-align: middle; margin-left: 16px; font-size: 1.3em; font-weight: bold; color: #0366d6; text-decoration: none;">
+     style="margin-left: 16px; font-size: 1.3em; font-weight: bold; color: #0366d6; text-decoration: none;">
     My CodeCrypto Projects
   </a>
 </div>
