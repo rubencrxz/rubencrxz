@@ -14,11 +14,11 @@
 
 ## 🏆 Audit Contest (Public Review Stats)
 
-| Platform   | Audits Performed | Bugs Reported | Status  |
-| ---------- | ---------------- | ------------- | ------- |
-| Cantina    |  0               | 0             | Active  |
-| CodeArena  |  2               | 6             | Active  |
-| Sherlock   |  0               | 0             | Active  |
+| Platform   | Audits Performed | Bugs Reported |
+| ---------- | ---------------- | ------------- | 
+| Cantina    |  0               | 0             | 
+| CodeArena  |  2               | 6             | 
+| Sherlock   |  0               | 0             |
 
 
 ## ✈️ First Flight Contest
