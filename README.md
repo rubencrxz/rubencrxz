@@ -14,11 +14,11 @@
 
 ## 🏆 Audit Contest (Public Review Stats)
 
-| Platform   | Audits Performed | Bugs Reported |
-| ---------- | ---------------- | ------------- | 
-| Cantina    |  0               | 0             | 
-| CodeArena  |  2               | 6             | 
-| Sherlock   |  0               | 0             |
+| Platform                                                                 | Audits Performed | Bugs Reported |
+| ------------------------------------------------------------------------ | ---------------- | ------------- |
+| [Cantina](https://cantina.xyz/u/rubencrxz)                               | 0                | 0             |
+| [CodeArena](https://code4rena.com/@rubencrxz)                            | 2                | 6             |
+| [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)                 | 0                | 0             |
 
 
 ## ✈️ First Flight Contest
