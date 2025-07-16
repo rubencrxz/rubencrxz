@@ -23,6 +23,21 @@
 
 ## ✈️ First Flight Contest
 
+<table>
+  <tr>
+    <td width="80">
+      <a href="https://github.com/rubencrxz/codehawks-firstflights" target="_blank">
+        <img src="assets/first-flights.png" alt="First Flight Audits" width="80"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/rubencrxz/codehawks-firstflights" target="_blank"
+         style="font-size:1.1em; font-weight:bold; color:#0366d6; text-decoration:none;">
+        My First Flight Audits
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 💻 CodeCrypto Projects
 
