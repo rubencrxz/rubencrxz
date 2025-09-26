@@ -17,7 +17,7 @@
 | Platform                                                                 | Audits Performed | Valid Bugs    | My Reviews |
 | ------------------------------------------------------------------------ | ---------------- | ------------- | ---------- |
 | 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                               | 0                | 0             | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
-| 🟪 [CodeArena](https://code4rena.com/@rubencrxz)                            | 2                | 0             | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
+| 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                            | 2                | 0             | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
 | 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)                 | 0                | 0             | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
 
 
