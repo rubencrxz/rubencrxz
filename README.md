@@ -18,7 +18,7 @@
 | ------------------------------------------------------------------------ | ---------------- | ------------- | ---------- |
 | 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                               | 0                | 0             | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
 | 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                            | 2                | 0             | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
-| 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)                 | 0                | 0             | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
+| 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)                 | 1                | 2             | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
 
 
 ## ✈️ First Flight Contest
