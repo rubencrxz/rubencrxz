@@ -14,9 +14,9 @@
 
 ## 🏆 Audit Contest (Public Review Stats)
 
-| Platform                                                                 | Audits Performed | Valid Bugs    | My Reviews |
+| Platform                                                                 | Audits Performed | Valid Bugs (H&M)    | My Reviews |
 | ------------------------------------------------------------------------ | ---------------- | ------------- | ---------- |
-| 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                               | 0                | 0             | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
+| 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                               | 1                | 1             | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
 | 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                            | 2                | 0             | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
 | 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)                 | 1                | 2             | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
 
