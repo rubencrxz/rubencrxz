@@ -15,9 +15,9 @@
 
 | Platform                                                                 | Audits Performed | Valid Bugs (H&M)    | My Reviews |
 | ------------------------------------------------------------------------ | ---------------- | ------------- | ---------- |
-| 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                               | 1                | 1 M            | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
-| 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                            | 2                | 2 H            | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
-| 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)                 | 1                | 2 M            | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
+| 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                            | 1                | 1 M            | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
+| 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                         | 3                | 2 H            | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
+| 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)              | 1                | 2 M            | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
 
 
 ## ✈️ First Flight Contest
