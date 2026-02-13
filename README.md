@@ -45,13 +45,6 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="middle">
-      <a href="https://github.com/rubencrxz/web25-besu-2025" target="_blank">
-        <img src="assets/CodeCrypto_logo1_420x420.png"
-             alt="CodeCrypto Logo"
-             width="120"/>
-      </a>
-    </td>
     <td valign="middle" style="padding-left: 16px;">
       <a href="https://github.com/rubencrxz/web25-besu-2025" target="_blank"
          style="font-size: 1.3em; font-weight: bold; color: #0366d6; text-decoration: none;">
