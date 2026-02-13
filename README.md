@@ -4,7 +4,7 @@
   <!-- Your existing hero image -->
   <img src="https://github.com/rubencrxz/rubencrxz/blob/main/assets/cyberpunk.jpeg?raw=true" alt="Image" width="70%" height="60%"/>
   <br><br>
-  <p style="max-width:800px; font-size:5em; color:#444;">
+  <p style="max-width:800px; font-size:12em; color:#444;">
     I’m a smart contract auditor, deeply focused into securing codebases and deploying secure contracts.
   </p>
 </div>
