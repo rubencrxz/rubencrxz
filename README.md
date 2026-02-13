@@ -5,8 +5,7 @@
   <img src="https://github.com/user-attachments/assets/642ff2aa-4ca0-41ac-b287-a75fe4e2d53c" alt="Image" width="70%" height="60%"/>
   <br><br>
   <p style="max-width:800px; font-size:1.1em; color:#444;">
-    I’m a blockchain development student, deeply interested in smart contract security and cybersecurity.  
-    I’m on my way to becoming a highly competent smart contract auditor.
+    I’m a smart contract auditor, deeply focused into securing codebases and deploying secure contracts.
   </p>
 </div>
 
