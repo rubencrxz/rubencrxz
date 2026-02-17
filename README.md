@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <!-- Your existing hero image -->
@@ -39,18 +38,3 @@
     </td>
   </tr>
 </table>
-
-## 💻 CodeCrypto Projects
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="middle" style="padding-left: 16px;">
-      <a href="https://github.com/rubencrxz/web25-besu-2025" target="_blank"
-         style="font-size: 1.3em; font-weight: bold; color: #0366d6; text-decoration: none;">
-        My CodeCrypto Projects
-      </a>
-    </td>
-  </tr>
-</table>
-
-
