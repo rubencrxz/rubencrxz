@@ -2,7 +2,7 @@
   <br><br>
   <p style="max-width:800px; font-size:clamp(48px, 6vw, 96px); color:#444;">
 I’m a smart contract security auditor focused on continuous assurance for codebases and delivering security services: 
-    security engineering, invariant testing, gas optimization and safe production releases. </p>
+manual review, invariant testing and fuzzing, gas optimizations and safe production releases. </p>
 </div>
 
 ---
