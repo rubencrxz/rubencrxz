@@ -7,7 +7,8 @@ I’m a smart contract security auditor focused on continuous assurance for code
 
 ---
 
-## ⟠ EVM Audits
+## 𖢻 EVM Audits
+
 
 
 ## 🏆 Audit Contest (Public Review Stats)
