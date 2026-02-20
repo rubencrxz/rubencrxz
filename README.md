@@ -1,11 +1,8 @@
 <div align="center">
-
-  <!-- Your existing hero image -->
-  <img src="https://github.com/rubencrxz/rubencrxz/blob/main/assets/cyberpunk.jpeg?raw=true" alt="Image" width="70%" height="60%"/>
   <br><br>
   <p style="max-width:800px; font-size:clamp(48px, 6vw, 96px); color:#444;">
-    I’m a smart contract auditor, deeply focused into securing codebases and deploying secure contracts.
-  </p>
+I’m a smart contract security auditor focused on continuous assurance for codebases: 
+    security engineering, invariant testing, gas optimization and safe production releases. </p>
 </div>
 
 ---
