@@ -9,12 +9,25 @@ I’m a smart contract security auditor focused on continuous assurance for code
 
 ## 𖢻 EVM Audits
 I am mostly focused on EVM audits written in Solidity. Here are some of the best codebases I have audited.
+
 🔷 Chainlink Rewards:
+
 💧 Lido Finance:
+
 🌊 Fluid DEX V2: 
+
+🐲 Hybra Finance (HyperEVM):
 
 ## 🦀 non-EVM Audits
 I have also performed some audits in Rust language, getting some High and Medium Findings:
+
+🔒 Swafe (ZK):
+ 
+®️ Reflector V3 (Stellar):
+
+
+
+ 
 
 
 ## 🏆 Audit Contest (Public Review Stats)
