@@ -10,26 +10,27 @@ manual review, invariant testing and fuzzing, gas optimizations and safe product
 ## 𖢻 EVM Audits
 I am mostly focused on EVM audits written in Solidity. Here are some of the best codebases I have audited.
 
-🔷 Chainlink Rewards:
+- 🔷 Chainlink Rewards:
 
-💧 Lido Finance:
+- 💧 Lido Finance:
 
-🌊 Fluid DEX V2: 
+- 🌊 Fluid DEX V2: 
 
-🐲 Hybra Finance (HyperEVM):
+- 🐲 Hybra Finance (HyperEVM):
 
 ## 🦀 non-EVM Audits
 I have also performed some audits in Rust language, getting some High and Medium Findings:
 
-🔒 Swafe (ZK):
+- 🔒 Swafe (ZK):
  
-®️ Reflector V3 (Stellar):
+- ®️ Reflector V3 (Stellar):
 
 ## 📖 Technichal Reports
-As part of my research, I deeply study the best protocols in the ecosystem, which sharpen my audit skills.
+As part of my research, I deeply study the best protocols in the ecosystem.
 
-🦄 Uniswap
+- 🦄 Uniswap:
 
+- 𖢻 EVM:
 
 
 
@@ -38,11 +39,11 @@ As part of my research, I deeply study the best protocols in the ecosystem, whic
 
 ## 🏆 Public Contest (Stats)
 
-| Platform                                                                 | Audits Performed | Valid Bugs (H&M)    | My Reviews |
-| ------------------------------------------------------------------------ | ---------------- | ------------- | ---------- |
-| 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                            | 1                | 1 M            | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
-| 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                         | 3                | 2 H            | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
-| 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)              | 1                | 2 M            | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
+| Platform                                                                  | Valid Bugs (H&M)    | My Reviews |
+| ------------------------------------------------------------------------  |  -------------      | ---------- |
+| 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                             | 1 M                 | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
+| 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                          | 2 H                 | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
+| 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)               | 2 M                 | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
 
 
 ## ✈️ First Flight Contest
