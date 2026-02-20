@@ -25,7 +25,7 @@ I have also performed some audits in Rust language, getting some High and Medium
  
 ®️ Reflector V3 (Stellar):
 
-## 📖 Protocol Reports
+## 📖 Technichal Reports
 As part of my research, I deeply study the best protocols in the ecosystem, which sharpen my audit skills.
 
 🦄 Uniswap
