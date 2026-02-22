@@ -10,7 +10,7 @@ manual review, invariant testing and fuzzing, gas optimizations and safe product
 ## 𖢻 EVM Audits
 I am mostly focused on EVM audits written in Solidity. Here are some of the best codebases I have audited.
 
-- 🔷 Chainlink Rewards:
+- 🔷 Chainlink Rewards: https://github.com/rubencrxz/Chainlink-Rewards
 
 - 💧 Lido Finance:
 
