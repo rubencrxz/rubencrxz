@@ -1,8 +1,16 @@
 <div align="center">
   <br><br>
+
+  <img
+    src="https://github.com/rubencrxz/rubencrxz/blob/main/assets/telegram.jpeg?raw=true"
+    alt="Rubén Cruz"
+    style="max-width:800px; width:60%; height:auto; border-radius:16px; margin-bottom:18px;"
+  />
+
   <p style="max-width:800px; font-size:clamp(48px, 6vw, 96px); color:#444;">
-I’m a smart contract security auditor focused on continuous assurance for codebases and on delivering security services: 
-manual review, invariant testing and fuzzing, gas optimizations and safe production releases. </p>
+    I’m a smart contract security auditor focused on continuous assurance for codebases and on delivering security services:
+    manual review, invariant testing and fuzzing, gas optimizations and safe production releases.
+  </p>
 </div>
 
 ---
