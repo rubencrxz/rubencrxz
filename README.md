@@ -2,7 +2,7 @@
   <br><br>
 
   <img
-    src="https://github.com/rubencrxz/rubencrxz/blob/main/assets/telegram.jpeg?raw=true"
+    src="https://github.com/rubencrxz/rubencrxz/blob/main/assets/github.JPG?raw=true"
     alt="Rubén Cruz"
     style="max-width:800px; width:60%; height:auto; border-radius:16px; margin-bottom:18px;"
   />
