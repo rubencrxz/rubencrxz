@@ -12,7 +12,7 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - 🔷 Chainlink Rewards: https://github.com/rubencrxz/Chainlink-Rewards
 
-- 💧 Lido Finance:
+- 💧 Lido Finance: https://github.com/rubencrxz/Lido-Finance
 
 - 🌊 Fluid DEX V2: Report done. Waiting for results...
 
