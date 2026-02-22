@@ -14,7 +14,7 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - 💧 Lido Finance:
 
-- 🌊 Fluid DEX V2: 
+- 🌊 Fluid DEX V2: Report done. Waiting for results...
 
 - 🐲 Hybra Finance (HyperEVM): https://github.com/rubencrxz/Hybra-Finance
 
@@ -23,9 +23,9 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 ## 🦀 non-EVM Audits
 I have also performed some audits in Rust language, getting some High and Medium Findings:
 
-- 🔒 Swafe (ZK):
+- 🔒 Swafe (ZK): Report done. Waiting for results...
  
-- ®️ Reflector V3 (Stellar):
+- ®️ Reflector V3 (Stellar): https://github.com/rubencrxz/Reflector
 
 ## 📖 Technichal Reports
 As part of my research, I deeply study the best protocols in the ecosystem.
