@@ -18,6 +18,8 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - 🐲 Hybra Finance (HyperEVM):
 
+- ♾️ Ekubo Protocol: https://github.com/rubencrxz/Ekubo
+
 ## 🦀 non-EVM Audits
 I have also performed some audits in Rust language, getting some High and Medium Findings:
 
