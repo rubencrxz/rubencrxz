@@ -32,7 +32,7 @@ As part of my research, I deeply study the best protocols in the ecosystem.
 
 - 🦄 Uniswap: https://github.com/rubencrxz/Uniswap
 
-- 𖢻 EVM:
+- 𖢻 EVM: Coming soon...
 
 
 
