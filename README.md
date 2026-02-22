@@ -16,7 +16,7 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - 🌊 Fluid DEX V2: 
 
-- 🐲 Hybra Finance (HyperEVM):
+- 🐲 Hybra Finance (HyperEVM): https://github.com/rubencrxz/Hybra-Finance
 
 - ♾️ Ekubo Protocol: https://github.com/rubencrxz/Ekubo
 
