@@ -24,10 +24,11 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - 🌊 Fluid DEX V2: Report done. Waiting for results...
 
-- 🐲 Hybra Finance (HyperEVM): https://github.com/rubencrxz/Hybra-Finance
+- 🐲 Hybra Finance (HyperEVM AMM): https://github.com/rubencrxz/Hybra-Finance
 
-- ♾️ Ekubo Protocol: https://github.com/rubencrxz/Ekubo
+- ♾️ Ekubo Protocol (AMM): https://github.com/rubencrxz/Ekubo
 
+- ©️ Covenant (AMM): 
 ---
 
 ## 🦀 non-EVM Audits
@@ -46,7 +47,7 @@ I have also performed some audits in Rust language, getting some High and Medium
 ---
 
 ## 📖 Technichal Reports
-As part of my research, I deeply study the best protocols in the ecosystem.
+As part of my research, I deeply study the best protocols and technichal aspects of the ecosystem.
 
 - 🦄 Uniswap: https://github.com/rubencrxz/Uniswap
 
