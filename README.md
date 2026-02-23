@@ -16,6 +16,7 @@
 ---
 
 ## 𖢻 EVM Audits
+
 I am mostly focused on EVM audits written in Solidity. Here are some of the best codebases I have audited.
 
 - 🔷 Chainlink Rewards: https://github.com/rubencrxz/Chainlink-Rewards
@@ -28,10 +29,11 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - ♾️ Ekubo Protocol (AMM): https://github.com/rubencrxz/Ekubo
 
-- ©️ Covenant (AMM): 
+- ©️ Covenant (DEX): 
 ---
 
 ## 🦀 non-EVM Audits
+
 I have also performed some audits in Rust language, getting some High and Medium valid Findings:
 
 - 🔒 Swafe (ZK): Report done. Waiting for results...
@@ -47,6 +49,7 @@ I have also performed some audits in Rust language, getting some High and Medium
 ---
 
 ## 📖 Technichal Reports
+
 As part of my research, I deeply study the best protocols and technichal aspects of the ecosystem.
 
 - 🦄 Uniswap: https://github.com/rubencrxz/Uniswap
@@ -59,9 +62,9 @@ As part of my research, I deeply study the best protocols and technichal aspects
 
 | Platform                                                                  | Valid Bugs (H&M)    | My Reviews |
 | ------------------------------------------------------------------------  |  -------------      | ---------- |
-| 🧲 [Cantina](https://cantina.xyz/u/rubencrxz)                             | 1 M                 | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
-| 🟪 [Code4rena](https://code4rena.com/@rubencrxz)                          | 2 H                 | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
-| 🕵🏻‍♂️ [Sherlock](https://audits.sherlock.xyz/watson/rubencrxz)               | 2 M                 | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
+| 🧲 Cantina                                                                | 1 M                 | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
+| 🟪  Code4rena                                                             | 2 H                 | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
+| 🕵🏻‍♂️  Sherlock                                                              | 3 M                 | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
 
 
 ## ✈️ First Flight Contest
