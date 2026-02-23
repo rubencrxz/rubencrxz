@@ -8,8 +8,7 @@
   />
 
   <p style="max-width:800px; font-size:clamp(48px, 6vw, 96px); color:#444;">
-    I’m a smart contract security auditor focused on continuous assurance for codebases and on delivering security services:
-    manual review, invariant testing and fuzzing, gas optimizations and safe production releases.
+    I’m a smart contract security auditor that provides continuous smart contract security assurance for production codebases, combining manual review, invariant testing and fuzzing, gas optimization, and support for safe production releases..
   </p>
 </div>
 
