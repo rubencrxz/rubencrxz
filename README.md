@@ -11,7 +11,6 @@
     I’m a smart contract security auditor that provides continuous smart contract security assurance for production codebases, combining manual review, invariant testing and fuzzing, gas optimization, and support for safe production releases..
   </p>
 </div>
-
 ---
 
 ## 𖢻 EVM Audits
@@ -62,6 +61,8 @@ As part of my research, I study top-tier protocols in depth and document the key
 ---
 
 ## 🏆 Public Contest (Stats)
+
+Currently participating in public audit contests across Sherlock, Code4rena, and Cantina.
 
 | Platform                                                                  | Valid Bugs (H&M)    | My Reviews |
 | ------------------------------------------------------------------------  |  -------------      | ---------- |
