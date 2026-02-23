@@ -16,7 +16,7 @@
 
 ## 𖢻 EVM Audits
 
-I am mostly focused on EVM audits written in Solidity. Here are some of the best codebases I have audited.
+My primary focus is EVM security reviews, auditing Solidity codebases. These are reports of some prtocolos I have audited:
 
 - 🔷 Chainlink Rewards: https://github.com/rubencrxz/Chainlink-Rewards
 
@@ -35,7 +35,7 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 ## 🦀 non-EVM Audits
 
-I have also performed some audits in Rust language, getting some High and Medium valid Findings:
+I have also audited some Rust-based systems, getting some High and Medium valid Findings:
 
 - 🔒 Swafe (ZK): Report done. Waiting for results...
  
@@ -45,13 +45,15 @@ I have also performed some audits in Rust language, getting some High and Medium
 
 ## 💢 Audits with live/deployed code
 
+I also run audits against live, deployed code.
+
 - 🪽 Morpheus: https://github.com/rubencrxz/Morpheus
 
 ---
 
 ## 📖 Technichal Reports
 
-As part of my research, I deeply study the best protocols and technichal aspects of the ecosystem.
+As part of my research, I study top-tier protocols in depth and document the key technical and architectural ideas behind them.
 
 - 🦄 Uniswap: https://github.com/rubencrxz/Uniswap
 
