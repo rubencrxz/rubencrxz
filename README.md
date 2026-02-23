@@ -28,6 +28,8 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - ♾️ Ekubo Protocol: https://github.com/rubencrxz/Ekubo
 
+---
+
 ## 🦀 non-EVM Audits
 I have also performed some audits in Rust language, getting some High and Medium Findings:
 
@@ -35,9 +37,13 @@ I have also performed some audits in Rust language, getting some High and Medium
  
 - ®️ Reflector V3 (Stellar): https://github.com/rubencrxz/Reflector
 
+---
+
 ## 💢 Audits with live/deployed code
 
 - 🪽 Morpheus: https://github.com/rubencrxz/Morpheus
+
+---
 
 ## 📖 Technichal Reports
 As part of my research, I deeply study the best protocols in the ecosystem.
@@ -46,10 +52,7 @@ As part of my research, I deeply study the best protocols in the ecosystem.
 
 - 𖢻 EVM: Coming soon...
 
-
-
- 
-
+---
 
 ## 🏆 Public Contest (Stats)
 
