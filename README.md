@@ -31,7 +31,7 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 ---
 
 ## 🦀 non-EVM Audits
-I have also performed some audits in Rust language, getting some High and Medium Findings:
+I have also performed some audits in Rust language, getting some High and Medium valid Findings:
 
 - 🔒 Swafe (ZK): Report done. Waiting for results...
  
