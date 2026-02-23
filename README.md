@@ -29,9 +29,9 @@ I am mostly focused on EVM audits written in Solidity. Here are some of the best
 
 - ♾️ Ekubo Protocol (AMM): https://github.com/rubencrxz/Ekubo
 
-- ➕ Ammplify (AMM):
+- ➕ Ammplify (AMM): 
 
-- ©️ Covenant (DEX): 
+- ©️ Covenant (DEX): https://github.com/rubencrxz/Covenant
 ---
 
 ## 🦀 non-EVM Audits
