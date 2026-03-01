@@ -57,6 +57,8 @@ As part of my research, I study top-tier protocols in depth and document the key
 
 - 🦄 Uniswap: https://github.com/rubencrxz/Uniswap
 
+- 👻 Aave V3: https://github.com/rubencrxz/Aave
+
 - 𖢻 EVM: Coming soon...
 
 ---
