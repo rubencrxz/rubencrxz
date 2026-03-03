@@ -59,7 +59,7 @@ As part of my research, I study top-tier protocols in depth and document the key
 
 - 👻 Aave V3: https://github.com/rubencrxz/Aave
 
-- 𖢻 EVM: https://github.com/rubencrxz/EVM
+- 🏗️ EVM: https://github.com/rubencrxz/EVM
 
 ---
 
