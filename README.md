@@ -17,6 +17,7 @@
 ## 𖢻 EVM Audits
 
 My primary focus is EVM security reviews, auditing Solidity codebases. These are reports of some prtocolos I have audited:
+- 🔷 Chainlink Payment Abstraction V2: https://github.com/rubencrxz/Chainlink-PA-V2
 
 - 🔷 Chainlink Rewards: https://github.com/rubencrxz/Chainlink-Rewards
 
