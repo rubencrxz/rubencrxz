@@ -25,6 +25,8 @@ My primary focus is EVM security reviews, auditing Solidity codebases. These are
 
 - 🌊 Fluid DEX V2: Report done. Waiting for results...
 
+- 🦄 Revert (Uniswap Hook): 
+
 - 🐲 Hybra Finance (HyperEVM AMM): https://github.com/rubencrxz/Hybra-Finance
 
 - ♾️ Ekubo Protocol (AMM): https://github.com/rubencrxz/Ekubo
