@@ -23,8 +23,8 @@ My primary focus is EVM security reviews, auditing Solidity codebases. These are
 
 - 💧 Lido Finance: https://github.com/rubencrxz/Lido-Finance
 
-- 🌊 Fluid DEX V2: Report done. Waiting for results...
-
+- 🌊 Fluid DEX V2: https://github.com/rubencrxz/Fluid-V2
+  
 - 🦄 Revert (Uniswap Hook): 
 
 - 🐲 Hybra Finance (HyperEVM AMM): https://github.com/rubencrxz/Hybra-Finance
