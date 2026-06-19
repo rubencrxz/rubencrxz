@@ -70,7 +70,7 @@ Currently participating in public audit contests across Sherlock, Code4rena, and
 
 | Platform                                                                  | Valid Bugs (H&M)    | My Reviews |
 | ------------------------------------------------------------------------  |  -------------      | ---------- |
-| 🧲 Cantina                                                                | 1 M                 | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
+| 🧲 Cantina                                                                | 1 H, 1 M            | [View Reports](https://github.com/rubencrxz/Cantina-Reports)    |
 | 🟪  Code4rena                                                             | 2 H, 2 M            | [View Reports](https://github.com/rubencrxz/Code4rena-Reports)  |
 | 🕵🏻‍♂️  Sherlock                                                              | 1 H, 4 M            | [View Reports](https://github.com/rubencrxz/Sherlock-Reports)   |
 
