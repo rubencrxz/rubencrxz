@@ -44,6 +44,10 @@ I have also audited some Rust-based systems, getting some High and Medium valid 
  
 - ®️ Reflector V3 (Stellar): https://github.com/rubencrxz/Reflector
 
+- ⛰️ K2(Stellar, Rust): Report done. Waiting for results...
+
+- 💧 Current Finance (Sui, Move): 2 Valid Mediums. Waiting for report...
+
 ---
 
 ## 💢 Audits with live/deployed code
