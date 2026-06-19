@@ -25,7 +25,7 @@ My primary focus is EVM security reviews, auditing Solidity codebases. These are
 
 - 🌊 Fluid DEX V2: https://github.com/rubencrxz/Fluid-V2
   
-- 🦄 Revert (Uniswap Hook): 
+- 🦄 Revert (Uniswap Hook): https://github.com/rubencrxz/Revert-Hooks
 
 - 🐲 Hybra Finance (HyperEVM AMM): https://github.com/rubencrxz/Hybra-Finance
 
