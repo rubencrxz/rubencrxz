@@ -17,6 +17,7 @@
 ## 𖢻 EVM Audits
 
 My primary focus is EVM security reviews, auditing Solidity codebases. These are reports of some prtocolos I have audited:
+
 - 🔷 Chainlink Payment Abstraction V2: https://github.com/rubencrxz/Chainlink-PA-V2
 
 - 🔷 Chainlink Rewards: https://github.com/rubencrxz/Chainlink-Rewards
@@ -44,7 +45,7 @@ I have also audited some Rust-based systems, getting some High and Medium valid 
  
 - ®️ Reflector V3 (Stellar): https://github.com/rubencrxz/Reflector
 
-- ⛰️ K2(Stellar, Rust): Report done. Waiting for results...
+- ⛰️ K2 (Stellar, Rust): Report done. Waiting for results...
 
 - 💧 Current Finance (Sui, Move): 2 Valid Mediums. Waiting for report...
 
