@@ -59,6 +59,18 @@ I also run audits against live, deployed code.
 
 ---
 
+## ⚖️ Controversial Findings 
+
+This section highlights disputed submissions that I still consider technically relevant and worth documenting.
+
+- 🔷 Chainlink and the Confirmed Issue with No Payout: 
+
+- 🧭 Fluid and the Escalation of the Escaltion of the Escalation:
+
+- 🧾 Royco and the Unpaid Security Review Case: 
+
+---
+
 ## 📖 Technichal Reports
 
 As part of my research, I study top-tier protocols in depth and document the key technical and architectural ideas behind them.
