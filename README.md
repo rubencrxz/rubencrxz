@@ -65,7 +65,7 @@ This section highlights disputed submissions that I still consider technically r
 
 - 🔷 Chainlink and the Confirmed Issue with No Payout: https://github.com/rubencrxz/Chainlink
 
-- 🧭 Fluid and the Escalation of the Escaltion of the Escalation: 
+- 🧭 Fluid and the Escalation of the Escaltion of the Escalation: https://github.com/rubencrxz/Fluid
 
 - 🧾 Royco and the Unpaid Security Review Case: 
 
