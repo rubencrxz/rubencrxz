@@ -67,7 +67,7 @@ This section highlights disputed submissions that I still consider technically r
 
 - 🧭 Fluid and the Escalation of the Escaltion of the Escalation: https://github.com/rubencrxz/Fluid
 
-- 🧾 Royco and the Unpaid Security Review Case: 
+- 🧾 Royco and the Unpaid Security Review Case: https://github.com/rubencrxz/Royco 
 
 ---
 
