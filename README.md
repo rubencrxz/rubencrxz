@@ -63,9 +63,9 @@ I also run audits against live, deployed code.
 
 This section highlights disputed submissions that I still consider technically relevant and worth documenting.
 
-- 🔷 Chainlink and the Confirmed Issue with No Payout: 
+- 🔷 Chainlink and the Confirmed Issue with No Payout: https://github.com/rubencrxz/Chainlink
 
-- 🧭 Fluid and the Escalation of the Escaltion of the Escalation:
+- 🧭 Fluid and the Escalation of the Escaltion of the Escalation: 
 
 - 🧾 Royco and the Unpaid Security Review Case: 
 
